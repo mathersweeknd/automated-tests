@@ -1,4 +1,4 @@
 # Automated Tests
-Testes automatizados em C#
+Testes automatizados de controle de carga e logística em C#
 
-Automated Testing in C#
+Automated load control and logistics testing in C#
